@@ -4,7 +4,7 @@ This was a test for The Odin Project: Creating a landing page using HTML and CSS
 
 # Credits
 
-I took the opportunity to make a website design for an artists client, showcasing her characters and world.
+I took the opportunity to make a website design for an artist client, showcasing her characters and world.
 
 All characters and artwork belong to @Caminukai over on Twitter.
 
