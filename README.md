@@ -1,6 +1,6 @@
 # About this project
 
-This was a test for The Odin Project: Creating a landing page using HTML and CSS-Flexbox
+Landing page using HTML and CSS-Flexbox
 
 # Credits
 
